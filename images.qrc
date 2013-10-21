@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/triangle.png</file>
+        <file>images/circle.png</file>
+        <file>images/move.png</file>
+        <file>images/rect.png</file>
+        <file>images/selected.png</file>
+        <file>images/zoomout.png</file>
+        <file>images/zoomin.png</file>
+        <file>images/color.png</file>
+        <file>images/line.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/delete.png</file>
+        <file>images/clear.png</file>
+    </qresource>
+</RCC>
